@@ -1,0 +1,21 @@
+{
+  "name": "transparencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RateManager.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "html",
+      "text"
+    ]
+  }
+}
