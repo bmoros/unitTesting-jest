@@ -1,8 +1,8 @@
 #Ignora la carpeta node_modules
-node_modules
+node_modules/
 
 #Ignora la carpeta coverage
-coverage
+coverage/
 
 #Ignora el archivo con las variables de entorno
 .env
